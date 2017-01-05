@@ -15,7 +15,7 @@ public class sf extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sf);
 
-        mAuth= FirebaseAuth.getInstance();
-        databaseReference= FirebaseDatabase.getInstance().getReference();
+        //mAuth= FirebaseAuth.getInstance();
+        //databaseReference= FirebaseDatabase.getInstance().getReference();
     }
 }
